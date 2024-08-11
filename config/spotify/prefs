@@ -1,0 +1,15 @@
+autologin.username="car.enrico19"
+autologin.saved_credentials="{\"car.enrico19\":[\"car.enrico19\",\"AaZjd6d0u3/xxPZb0dVSEC6kKH22jYRrJodv1xHv9aq/FOk31I4YLiXzG/yjuPhUS3a0czNuTDDF49CaLkjOEyu+uBakK7nvv2bISVQr3q7agGinjbR4na+XNjkP6yDI5hoaiOddGNNiJFFSfuHJQJw41Q+1kT5TiZFm39E1pO4rE0kdYarRfge73Q+7wlI9Svo99KYUMS2cU6YamY1Spbl/iC9HL691r2nOerHEoxZhl+P9TngWSIg7AOBb7d5IUeP0NlH1AkmweOtP6F86kQukvEPTYDJsRiAY1eJN+vY=\"]}"
+autologin.blob="AaZjd6d0u3/xxPZb0dVSEC6kKH22jYRrJodv1xHv9aq/FOk31I4YLiXzG/yjuPhUS3a0czNuTDDF49CaLkjOEyu+uBakK7nvv2bISVQr3q7agGinjbR4na+XNjkP6yDI5hoaiOddGNNiJFFSfuHJQJw41Q+1kT5TiZFm39E1pO4rE0kdYarRfge73Q+7wlI9Svo99KYUMS2cU6YamY1Spbl/iC9HL691r2nOerHEoxZhl+P9TngWSIg7AOBb7d5IUeP0NlH1AkmweOtP6F86kQukvEPTYDJsRiAY1eJN+vY="
+es.send-on-startup=true
+core.clock_delta=0
+autologin.canonical_username="car.enrico19"
+app.window.position.x=12
+app.enable-chrome-runtime=true
+app.window.position.saved=true
+app.window.position.height=1012
+app.window.position.y=56
+storage.last-location="/home/carne/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=941
+app.last-launched-version="1.2.42.290.g242057a2"

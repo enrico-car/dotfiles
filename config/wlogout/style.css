@@ -1,0 +1,64 @@
+@import url("../hypr-colors.css");
+
+* {
+	background-image: none;
+	box-shadow: none;
+	font-family: "JetBrainMono Nerd Font";
+	font-weight: bold;
+	font-size: 18px;
+}
+
+window {
+	background: url("/home/carne/Pictures/wallpaper/yellowdeer.png");
+	background-size: cover;
+	background-color: rgba(12, 12, 12, 0.9);
+}
+
+button {
+    color: @text;
+    font-size:20px;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25%;
+
+    margin: 15px;
+    border-radius: 20px;
+
+    border-style: solid;
+    background-color: rgba(12, 12, 12, 0.3);
+    border: 3px solid @text;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:focus, button:active, button:hover {
+	color: @color1;
+	background-color: rgba(12, 12, 12, 0.5);
+	border: 3px solid @color1;
+	outline-style: none;
+}
+
+#lock {
+    background-image: image(url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png"));
+}
+
+#logout {
+    background-image: image(url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png"));
+}
+
+#suspend {
+    background-image: image(url("/usr/share/wlogout/icons/suspend.png"), url("/usr/local/share/wlogout/icons/suspend.png"));
+}
+
+#hibernate {
+    background-image: image(url("/usr/share/wlogout/icons/hibernate.png"), url("/usr/local/share/wlogout/icons/hibernate.png"));
+}
+
+#shutdown {
+    background-image: image(url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+    background-image: image(url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png"));
+}

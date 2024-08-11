@@ -1,0 +1,9 @@
+2024/07/31-21:46:14.884 b78 Reusing MANIFEST /home/carne/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/31-21:46:14.885 b78 Recovering log #7
+2024/07/31-21:46:14.885 b78 Reusing old log /home/carne/.config/discord/Local Storage/leveldb/000007.log 
+2024/07/31-21:48:58.122 b79 Level-0 table #11: started
+2024/07/31-21:48:58.148 b79 Level-0 table #11: 788557 bytes OK
+2024/07/31-21:48:58.151 b79 Delete type=0 #7
+2024/07/31-21:50:20.503 b79 Level-0 table #13: started
+2024/07/31-21:50:20.527 b79 Level-0 table #13: 2395471 bytes OK
+2024/07/31-21:50:20.531 b79 Delete type=0 #10

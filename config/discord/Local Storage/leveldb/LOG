@@ -1,0 +1,22 @@
+2024/07/31-22:14:09.317 11b0 Reusing MANIFEST /home/carne/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/31-22:14:09.317 11b0 Recovering log #12
+2024/07/31-22:14:09.318 11b0 Reusing old log /home/carne/.config/discord/Local Storage/leveldb/000012.log 
+2024/07/31-22:16:52.628 11b2 Level-0 table #16: started
+2024/07/31-22:16:52.655 11b2 Level-0 table #16: 789175 bytes OK
+2024/07/31-22:16:52.659 11b2 Delete type=0 #12
+2024/07/31-23:22:39.894 11b2 Level-0 table #18: started
+2024/07/31-23:22:39.899 11b2 Level-0 table #18: 22770 bytes OK
+2024/07/31-23:22:39.903 11b2 Delete type=0 #15
+2024/07/31-23:22:39.903 11b2 Compacting 4@0 + 1@1 files
+2024/07/31-23:22:39.930 11b2 Generated table #19@0: 4 keys, 2391120 bytes
+2024/07/31-23:22:39.944 11b2 Generated table #20@0: 26 keys, 799765 bytes
+2024/07/31-23:22:39.944 11b2 Compacted 4@0 + 1@1 files => 3190885 bytes
+2024/07/31-23:22:39.948 11b2 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/07/31-23:22:39.948 11b2 Delete type=2 #8
+2024/07/31-23:22:39.948 11b2 Delete type=2 #11
+2024/07/31-23:22:39.948 11b2 Delete type=2 #13
+2024/07/31-23:22:39.948 11b2 Delete type=2 #16
+2024/07/31-23:22:39.948 11b2 Delete type=2 #18
+2024/07/31-23:54:27.306 11b2 Level-0 table #22: started
+2024/07/31-23:54:27.313 11b2 Level-0 table #22: 14410 bytes OK
+2024/07/31-23:54:27.316 11b2 Delete type=0 #17
